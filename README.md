@@ -7,7 +7,7 @@ Fill out your details, and the app will format them into a professional-looking 
 
 ## 🚀 Live Demo
 
-Try the app here: [https://your-streamlit-link](https://your-streamlit-link)
+Try the app here: [[https://your-streamlit-link](https://your-streamlit-link](https://readmemd-f46xlru2wbqj8unyvsju5k.streamlit.app/))
 
 ## 📂 Features
 
